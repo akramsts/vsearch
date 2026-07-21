@@ -11,7 +11,7 @@ This is a lightweight browser app that lets you browse the internet on your Andr
 - Simple and easy-to-use browser interface
 - Fast browsing experience
 - Lightweight app size
-- 
+
 ## Installation
 
 1. Download the APK from the [Releases](https://github.com/akramsts/vsearch/releases/download/1.0/VSearch.apk) page.
