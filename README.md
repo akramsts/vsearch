@@ -14,7 +14,7 @@ This is a lightweight browser app that lets you browse the internet on your Andr
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/akramsts/vsave/releases) section of this repository and download the latest APK file.
+1. Go to the [Releases](https://github.com/akramsts/vsearch/releases) section of this repository and download the latest APK file.
 2. Open the downloaded file on your Android device.
 3. If prompted, allow installation from unknown sources.
 4. Install and open the app.
