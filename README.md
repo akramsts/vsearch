@@ -1,4 +1,4 @@
-# App Name
+# VSearch
 
 A simple web browser app for Android, built using Kotlin.
 
