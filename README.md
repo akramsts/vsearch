@@ -27,5 +27,6 @@ This is a lightweight browser app that lets you browse the internet on your Andr
 
 - [Kotlin](https://kotlinlang.org/) — Programming language
 
-## Install
-- [VSearch](https://github.com/akramsts/vsearch/releases/download/1.0/VSearch.apk)
+## Author
+
+Made by **Akram**
