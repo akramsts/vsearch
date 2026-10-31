@@ -5,8 +5,8 @@
   --ink: #f4f2ee;
   --ink-muted: #8d8fa3;
   --line: #232438;
-  --accent: #3ddc97;
-  --accent-rgb: 61, 220, 151;
+  --accent: #ffc23c;
+  --accent-rgb: 255, 194, 60;
   color-scheme: dark;
 }
 
@@ -131,7 +131,7 @@ section {
 .app-tile {
   width: 120px;
   height: 120px;
-  border-radius: 28px;
+  border-radius: 19.14%;
   background: var(--panel);
   border: 1px solid var(--line);
   display: flex;
@@ -381,7 +381,6 @@ footer a {
   .app-tile {
     width: 96px;
     height: 96px;
-    border-radius: 24px;
     margin-bottom: 24px;
   }
 
