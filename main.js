@@ -1,3 +1,5 @@
+window.name = 'VSearchTab';
+
 (function () {
   'use strict';
 
@@ -45,7 +47,7 @@
   });
 
   confirmBtn.addEventListener('click', function () {
-    if (downloadUrl) window.open(downloadUrl, '_blank', 'noopener');
+    if (downloadUrl) window.open(downloadUrl, 'DownloadTab');
     closeModal();
   });
 
